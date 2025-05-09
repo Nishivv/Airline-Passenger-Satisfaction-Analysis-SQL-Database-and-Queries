@@ -63,5 +63,3 @@ Here are some of the key business questions answered in this project:
 
 ---
 
-## 📂 File Structure
-
