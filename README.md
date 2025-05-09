@@ -1,69 +1,67 @@
-#✈️ Airline Passenger Satisfaction Analysis
+# ✈️ Airline Passenger Satisfaction Analysis
 
+## 📌 Project Overview
 
-##📌 Project Overview
+This SQL project explores **Airline Passenger Satisfaction** by analyzing customer feedback and flight-related operational data. The dataset includes variables such as customer type, travel class, service ratings (e.g., seat comfort, inflight entertainment), flight delays, and overall satisfaction.
 
-This SQL project explores Airline Passenger Satisfaction by analyzing customer feedback and operational metrics. The dataset includes details such as customer type, travel class, in-flight services, delays, and satisfaction ratings. The goal is to identify factors influencing passenger satisfaction and uncover patterns in service quality, delays, and customer experience.
+The goal is to extract meaningful insights into factors affecting passenger satisfaction, service performance, and operational challenges using SQL queries.
 
+---
 
-###📂 Key Objectives
+## 🧰 Technologies Used
 
-Analyze customer satisfaction trends across different demographics and travel classes
+- **SQL (MySQL)**
+- **Relational Database Design**
+- **Data Cleaning & Aggregation**
+- **Exploratory Query Analysis**
 
-Explore the impact of service parameters like seat comfort, check-in, and in-flight entertainment
+---
 
-Examine delay patterns and their influence on customer sentiment
+## 🧠 Key Objectives
 
-Generate actionable insights using SQL queries.
+- Analyze satisfaction trends across customer types and travel classes  
+- Evaluate how service ratings affect satisfaction scores  
+- Understand patterns in flight delays and their impact  
+- Identify high-value customers and travel behavior  
+- Support business decisions with data-driven insights  
 
+---
 
+## 🔍 Insightful SQL Queries
 
-####🛠️ Technologies Used
+Here are some of the key business questions answered in this project:
 
-SQL (MySQL)
+1. Average satisfaction score by customer type  
+2. Total number of customers by gender  
+3. List of customers with flight distance >1500 miles and satisfied  
+4. Count of flights with departure delay >30 minutes  
+5. Average seat comfort rating by travel class  
+6. Customer types with the highest average flight distance  
+7. Online boarding convenience vs. low satisfaction  
+8. Maximum and minimum baggage handling scores  
+9. Cleanliness rating by gate location  
+10. Inflight entertainment scores below 3  
+11. Percentage of delayed departures over 15 minutes  
+12. Inflight Wi-Fi quality for delayed flights  
+13. Customer types rating inflight service above average  
+14. Highest inflight service rating by customer type  
+15. Legroom rating for short flights (<500 miles)  
+16. Most common gate for flights >1000 miles  
+17. Satisfied customers with high check-in service  
+18. Most popular class for excellent food rating  
+19. Departure delays and arrival delay relation  
+20. Customer type with the highest % of delayed flights  
 
-Relational Database Design
+---
 
-Data Cleaning & Aggregation
+## ✅ Outcomes
 
-Exploratory Query Analysis
+- Structured and queried a real-world airline dataset using SQL  
+- Identified key drivers of passenger satisfaction  
+- Measured the impact of delays and services on overall experience  
+- Built insights to support data-driven decisions in aviation or customer experience roles
 
+---
 
+## 📂 File Structure
 
-#####🔍 Key Insights Queries
-
-🧍‍♂️ Average Satisfaction by Customer Type
-
-👥 Gender-wise Customer Count
-
-🛫 Customers with Long Flights & High Satisfaction
-
-⏱️ Flight Delays and Their Frequency
-
-💺 Service Ratings by Travel Class
-
-💡 Top In-flight Services Rated by Customers
-
-📊 Delay Percentages by Customer Type
-
-🍱 Class Preferences for Excellent Food Ratings
-
-📌 Gate Locations and Flight Distance Relationships
-
-📉 Legroom Ratings for Short Flights
-
-
-
-######✅ Outcomes
-
-This project demonstrates how to:
-
-Structure queries for deep business insights
-
-Work with customer feedback and operational KPIs
-
-Translate raw data into clear, actionable intelligence
-
-Support strategic decisions in customer service and airline operations
-
-This SQL-based analysis is ideal for data analyst roles in aviation, customer service, or business intelligence, offering real-world query experience and analytical thinking.
