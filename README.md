@@ -1,12 +1,12 @@
-✈️ Airline Passenger Satisfaction Analysis
+#✈️ Airline Passenger Satisfaction Analysis
 
 
-📌 Project Overview
+##📌 Project Overview
 
 This SQL project explores Airline Passenger Satisfaction by analyzing customer feedback and operational metrics. The dataset includes details such as customer type, travel class, in-flight services, delays, and satisfaction ratings. The goal is to identify factors influencing passenger satisfaction and uncover patterns in service quality, delays, and customer experience.
 
 
-📂 Key Objectives
+###📂 Key Objectives
 
 Analyze customer satisfaction trends across different demographics and travel classes
 
@@ -14,11 +14,11 @@ Explore the impact of service parameters like seat comfort, check-in, and in-fli
 
 Examine delay patterns and their influence on customer sentiment
 
-Generate actionable insights using SQL queries
+Generate actionable insights using SQL queries.
 
 
 
-🛠️ Technologies Used
+####🛠️ Technologies Used
 
 SQL (MySQL)
 
@@ -30,7 +30,7 @@ Exploratory Query Analysis
 
 
 
-🔍 Key Insights Queries
+#####🔍 Key Insights Queries
 
 🧍‍♂️ Average Satisfaction by Customer Type
 
@@ -54,7 +54,7 @@ Exploratory Query Analysis
 
 
 
-✅ Outcomes
+######✅ Outcomes
 
 This project demonstrates how to:
 
